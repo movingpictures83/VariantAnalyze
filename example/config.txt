@@ -1,0 +1,2 @@
+Prefix plugins/VariantAnalyze/example/
+Plugin VariantAnalyze inputfile Annotate.rds outputfile VariantGraph.rds
